@@ -25,7 +25,4 @@ let userResult = document.getElementById('result4').value;
     }
 }
 
-let fillForm = 
-
-
 document.getElementById('check').addEventListener('click', checkResult);
