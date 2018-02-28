@@ -73,7 +73,10 @@ function grootsteGetal(){
         if (i%3==0){
             document.getElementById('reeks').innerHTML = "<br> bitter <br>";
         } if else(i%7==0){
-
+            document.getElementById('reeks').innerHTML = "<br> bitterbal <br>";
+        }
+        else{
+            document.getElementById('reeks').innerHTML = `${i}`;
         }
     }
 }*/
