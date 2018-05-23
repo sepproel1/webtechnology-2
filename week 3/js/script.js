@@ -18,7 +18,7 @@ let drawFlatArea = function(count){
     return strResult;
 }
 
-//document.getElementById('result').innerHTML = drawMountain(3) + drawFlatArea(6) + drawMountain(5);
+document.getElementById('result').innerHTML = drawMountain(3) + drawFlatArea(6) + drawMountain(500);
 
 //oefening 5: wachtwoord
 const secretPassword = 'Nooreman1';
